@@ -4,6 +4,8 @@
 
 title: MohitLabs
 layout: home
+maincss: css/main.css
+pagecss: css/home.css
 ---
 
 # {{page.title}}
